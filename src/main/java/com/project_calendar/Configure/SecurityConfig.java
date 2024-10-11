@@ -15,7 +15,9 @@ import org.springframework.security.web.SecurityFilterChain;
 @Configuration
 public class SecurityConfig {
 
-    @Autowired
+    @Autowiredgit fetch origin
+    git pull origin main
+
     private UserDetailsServiceImpl userDetailsService;
 
     @Bean
