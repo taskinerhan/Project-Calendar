@@ -34,3 +34,5 @@ Montly Expense
 Daily Activity Expense   
 ![Screenshot from 2025-04-08 14-54-15](https://github.com/user-attachments/assets/e8c3181a-a1a5-40ce-8421-c38541903515)
 
+Daily Product Details
+![image](https://github.com/user-attachments/assets/09bdb674-93fd-492e-b78b-b35870e3ae14)
